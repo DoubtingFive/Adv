@@ -8,9 +8,43 @@ left mouse button/e - interact
 
 g - drop item
 
-
 You are faster when crouching in air.
-Consistent jumping is making you faster.
+
+Consistent jumping is making you go faster.
+
+You can hold space to jump.
+
+## Answers
+<details>
+  <summary>Console Hint</summary>
+
+  ```
+  134
+  ```
+</details>
+<details>
+  <summary>Movement Hint</summary>
+
+  ```
+  You can get speed from jumping in place,
+  when you put all key up, you lost your speed.
+  ```
+</details>
+<details>
+  <summary>Doors</summary>
+
+  ```
+  Use "S" Key
+  ```
+</details>
+<details>
+  <summary>Buttons</summary>
+
+  ```
+  What other cubes you can use?
+  What other items?
+  ```
+</details>
 
 # Download Link
 https://www.dropbox.com/scl/fi/0g7bh9u5n6wyfnq8o8px8/Adv.zip?rlkey=tmd7aypgeahflv85vjw3vxh6y&st=njk5wh9c&dl=1
