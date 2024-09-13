@@ -46,5 +46,9 @@ You can hold space to jump.
   ```
 </details>
 
+## Showcase
+![MovementShowcase](https://github.com/user-attachments/assets/8d79484e-c72b-43ea-8f38-b85985628634)
+
+
 # Download Link
 https://www.dropbox.com/scl/fi/0g7bh9u5n6wyfnq8o8px8/Adv.zip?rlkey=tmd7aypgeahflv85vjw3vxh6y&st=njk5wh9c&dl=1
