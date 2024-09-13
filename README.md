@@ -3,8 +3,11 @@ Short, logical game. At max it's 30 minutes gameplay. I just tested some things,
 
 ## Controls
 crouch - control
+
 left mouse button/e - interact
+
 g - drop item
+
 
 You are faster when crouching in air.
 Consistent jumping is making you faster.
