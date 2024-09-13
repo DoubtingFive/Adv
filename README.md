@@ -47,7 +47,10 @@ You can hold space to jump.
 </details>
 
 ## Showcase
+<details>
+  <summary>Spoiler</summary>
 ![MovementShowcase](https://github.com/user-attachments/assets/8d79484e-c72b-43ea-8f38-b85985628634)
+</details>
 
 
 # Download Link
